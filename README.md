@@ -1,4 +1,4 @@
-# hello
+# SIMPLE QUIZZING APP MADE USING VUE.JS
 
 ## Project setup
 ```
